@@ -10,6 +10,6 @@ This project automates the IT infrastructure setup for the PurpleWire startup. I
 
 ### Security Features / Անվտանգության կանոններ
 - **HR group** has Full Access to contracts.
-- **Finance group** has Read-Only access to contracts (via ACL).
+- **Finance group** has Read-Only access to contracts
 - **Management folder** is restricted to department heads.
 - **Auditor account** is available for peer review (Username: `auditor`, Password: `audit123`).
